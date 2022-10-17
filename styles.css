@@ -1,0 +1,47 @@
+.navbar-brand {
+    font-family: Brush Script MT;
+    font-style: italic;
+    font-size: 30px;
+    padding-right: 30px;
+}
+
+.fixed-top {
+    position: fixed;
+    right: 5px;
+}
+
+.btn-light {
+    background-color: white;
+    color: black;
+}
+
+.margen {
+    margin-top: 70px;
+}
+
+.seg-ter {
+    margin-top: 5px;
+}
+
+.card {
+    margin: 40px auto;
+    width: 600px;
+}
+
+.card-header {
+    padding: .75rem 15px;
+}
+
+.titulo {
+    display: inline-block;
+}
+
+.btn-link {
+    float: right;
+    color: gray;
+    padding-right: 0px;
+}
+
+.card-body {
+    padding: 15px;
+}
